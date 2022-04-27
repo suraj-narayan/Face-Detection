@@ -3,6 +3,7 @@ import dlib
 import os
 import sys
 import random
+import numpy
 
 output_dir = './my_faces'
 size = 64
